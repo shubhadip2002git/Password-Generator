@@ -151,6 +151,7 @@ h1 {
     color: var(--vb-yellow);
     font-weight: 600;
     font-size: 1.25rem;
+    cursor: pointer;
   }
 
 .check {
@@ -191,12 +192,14 @@ h1 {
     color: var(--pl-white);
     font-size: 1.25rem;
     letter-spacing: 0.75px;
+    cursor: pointer;
 }
 
 .copyBtn{
     background-color: transparent;
     border:none;
     outline:none;
+    cursor: pointer;
 }
 
 .tooltip {
